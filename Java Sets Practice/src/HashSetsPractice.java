@@ -8,7 +8,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 
-public class Main {
+public class HashSetsPractice {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Set<String> userInput = new HashSet<>();
